@@ -9,7 +9,7 @@
     <class ignore-annotations="true"/>
 
     <getter name="uuid" ignore-annotations="true">
-      <constraint annotation="javax.validation.constraints.NotNull"/>
+      <constraint annotation="jakarta.validation.constraints.NotNull"/>
       <constraint annotation="mwe.validatorfail.validation.AnyUuid"/>
     </getter>
   </bean>

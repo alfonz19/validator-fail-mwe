@@ -1,9 +1,8 @@
 package mwe.validatorfail.controller;
 
+import jakarta.validation.Valid;
 import mwe.validatorfail.dto.AnnotatedSampleDTO;
 import mwe.validatorfail.dto.SampleDTO;
-
-import javax.validation.Valid;
 
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.PostMapping;

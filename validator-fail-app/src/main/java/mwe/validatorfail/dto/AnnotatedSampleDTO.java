@@ -1,9 +1,9 @@
 package mwe.validatorfail.dto;
 
 
+import jakarta.validation.constraints.NotNull;
 import mwe.validatorfail.validation.AnyUuid;
 
-import javax.validation.constraints.NotNull;
 
 public class AnnotatedSampleDTO {
     @NotNull
