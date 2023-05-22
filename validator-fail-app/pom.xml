@@ -29,8 +29,8 @@
 		</dependency>
 
 		<dependency>
-			<groupId>mwe</groupId>
-			<artifactId>validator-fail-api-module</artifactId>
+			<groupId>com.alfonz19</groupId>
+			<artifactId>validator-fail-api</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 

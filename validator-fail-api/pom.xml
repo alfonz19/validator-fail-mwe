@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.alfonz19</groupId>
-	<artifactId>validator-fail-api-module</artifactId>
+	<artifactId>validator-fail-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>validator-fail-api-module</name>
+	<name>validator-fail-api</name>
 	<description>validator fail api module</description>
 	<properties>
 		<java.version>17</java.version>
